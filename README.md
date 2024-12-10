@@ -1,3 +1,6 @@
-# Housing-Market-Analysis
-Individual Project for Data Science Course
-This repository contains the project files for my Data Science Individual Project. 
+# Housing Market Analysis: Rent-to-Price Trends in the United States
+
+## Access the Full Report
+The full project report is available as a PDF document. You can view or download it using the link below:
+
+[Housing Affordability Analysis Report (PDF)](report/Housing_Affordability_Analysis.pdf)
